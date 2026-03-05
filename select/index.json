@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ガラスのPALM TREE",
+  "base_artist": "杉山清貴＆オメガトライブ",
+  "createdAt": "2026-03-05T11:45:29.805500Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ガラスのPALM TREE",
+      "artist": "杉山清貴＆オメガトライブ",
+      "has_synced": false,
+      "path": "select/01_ガラスのPALM_TREE_杉山清貴&オメガトライブ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ガラスのPALM TREE",
+      "artist": "杉山清貴 feat. オメガトライブ",
+      "has_synced": true,
+      "path": "select/02_ガラスのPALM_TREE_杉山清貴_feat._オメガトライブ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ガラスのPALM TREE",
+      "artist": "杉山清貴",
+      "has_synced": true,
+      "path": "select/03_ガラスのPALM_TREE_杉山清貴.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ガラスのPALM TREE",
+      "artist": "杉山清貴 & オメガトライブ",
+      "has_synced": false,
+      "path": "select/04_ガラスのPALM_TREE_杉山清貴_&_オメガトライブ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ガラスのPALM TREE (2020 Remix)",
+      "artist": "杉山清貴 & オメガトライブ",
+      "has_synced": false,
+      "path": "select/05_ガラスのPALM_TREE_(2020_Remix)_杉山清貴_&_オメガトライブ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ガラスのPALM TREE",
+      "artist": "杉山 清貴&オメガトライブ",
+      "has_synced": false,
+      "path": "select/pl_01_ガラスのPALM_TREE_杉山_清貴&オメガトライブ.txt"
+    }
+  ]
+}
